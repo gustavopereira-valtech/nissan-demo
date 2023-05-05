@@ -8,7 +8,7 @@ export default {
   target: 'static',
 
   router: {
-    base: '/dist/',
+    base: '/',
   },
 
   generate: {
