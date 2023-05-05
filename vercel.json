@@ -1,13 +1,13 @@
 {
-    "version": 2,
-    "routes": [
-      {
-        "src": "/dist/sw.js",
-        "continue": true,
-        "headers": {
-          "Cache-Control": "public, max-age=0, must-revalidate",
-          "Service-Worker-Allowed": "/"
-        }
+  "version": 2,
+  "routes": [
+    {
+      "src": "/dist/sw.js",
+      "continue": true,
+      "headers": {
+        "Cache-Control": "public, max-age=0, must-revalidate",
+        "Service-Worker-Allowed": "/"
       }
-    ]
-  }
+    }
+  ]
+}

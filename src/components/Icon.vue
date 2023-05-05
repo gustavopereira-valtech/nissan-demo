@@ -1,11 +1,11 @@
 <template>
-        <img
-            class="pointer-events-none"
-            :class="size"
-            :src="`${name}.svg`"
-            :alt="alt"
-        />
-</template>    
+  <img
+    class="pointer-events-none"
+    :class="size"
+    :src="`${name}.svg`"
+    :alt="alt"
+  />
+</template>
 <script>
 export default {
   name: 'IconComponent',
@@ -17,7 +17,7 @@ export default {
 }
 </script>
 <style>
-    .back-red {
-        background-color: #B42535;
-    }
+.back-red {
+  background-color: #b42535;
+}
 </style>

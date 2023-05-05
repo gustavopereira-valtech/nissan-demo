@@ -18,14 +18,14 @@ export default {
     window.NSSW = window.NSSW || {}
 
     if (localStorage.session && localStorage.session.length) {
-      const session = localStorage.session.split(",")
-      session.forEach(el => {
+      const session = localStorage.session.split(',')
+      session.forEach((el) => {
         this.store.addFavs(Number(el))
-      });
+      })
     } else {
       localStorage.session = []
     }
-  }
+  },
 }
 </script>
 
@@ -34,7 +34,7 @@ html,
 body {
   height: 100%;
   touch-action: none;
-  background-color: #14172B;
+  background-color: #14172b;
   color: white;
 }
 .nssw-default-layout {
@@ -49,13 +49,13 @@ body {
 .default-enter {
   @keyframes fadeout {
     0% {
-      background-color: #14172B;
+      background-color: #14172b;
     }
     50% {
-      background-color: #2B2E40;
+      background-color: #2b2e40;
     }
     100% {
-      background-color: #14172B;
+      background-color: #14172b;
     }
   }
 }
