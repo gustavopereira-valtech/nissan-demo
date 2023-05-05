@@ -53,9 +53,9 @@ export default {
   },
   methods: {
     async actionToFav(id) {
-        await this.store.removeFavs(id)
-        localStorage.session = this.store.favs
-      },
-  }
+      await this.store.removeFavs(id)
+      localStorage.session = this.store.favs
+    },
+  },
 }
 </script>
