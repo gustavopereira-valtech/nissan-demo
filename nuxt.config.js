@@ -69,7 +69,7 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     // https://go.nuxtjs.dev/pwa
-    '@nuxtjs/pwa',
+    // '@nuxtjs/pwa',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -78,28 +78,28 @@ export default {
     baseURL: '/',
   },
 
-  // PWA module configuration: https://go.nuxtjs.dev/pwa
-  pwa: {
-    meta: {
-      title: 'NSSW / e-learning platform',
-      author: 'Valtech France',
-    },
-    manifest: {
-      lang: 'en',
-      name: 'NSSW / e-learning platform',
-      short_name: 'NSSW',
-      description: 'NSSW / e-learning platform demo',
-      theme_color: '#14172B',
-      background_color: '#14172B',
-      display: 'fullscreen',
-      Scope: '/',
-      orientation: 'portrait',
-    },
-    icons: {
-      fileName: 'icon.png',
-      sizes: [64, 120, 144, 152, 192, 384, 512],
-    },
-  },
+  // // PWA module configuration: https://go.nuxtjs.dev/pwa
+  // pwa: {
+  //   meta: {
+  //     title: 'NSSW / e-learning platform',
+  //     author: 'Valtech France',
+  //   },
+  //   manifest: {
+  //     lang: 'en',
+  //     name: 'NSSW / e-learning platform',
+  //     short_name: 'NSSW',
+  //     description: 'NSSW / e-learning platform demo',
+  //     theme_color: '#14172B',
+  //     background_color: '#14172B',
+  //     display: 'fullscreen',
+  //     Scope: '/',
+  //     orientation: 'portrait',
+  //   },
+  //   icons: {
+  //     fileName: 'icon.png',
+  //     sizes: [64, 120, 144, 152, 192, 384, 512],
+  //   },
+  // },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
