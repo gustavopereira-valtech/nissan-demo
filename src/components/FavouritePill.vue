@@ -25,7 +25,7 @@
           class="w-5 ml-2"
           src="favs-filled.svg"
           alt="Favs Icon"
-          @click="store.removeFavs(topic.id)"
+          @click="actionToFav(topic.id)"
         />
       </div>
     </div>
@@ -51,5 +51,11 @@ export default {
       )
     },
   },
+  methods: {
+    async actionToFav(id) {
+        await this.store.removeFavs(id)
+        localStorage.session = this.store.favs
+      },
+  }
 }
 </script>
