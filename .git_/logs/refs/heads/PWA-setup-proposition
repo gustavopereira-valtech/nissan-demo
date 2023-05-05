@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 7732d4eb82da427c84dedcaad2f9938315149f1d Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654588108 +0200	branch: Created from HEAD
+7732d4eb82da427c84dedcaad2f9938315149f1d 4ade911bf5560a7d6be0ef228b33361f9af28651 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654595029 +0200	commit: First PWA proposition for homescreen, icons and service workers
+4ade911bf5560a7d6be0ef228b33361f9af28651 11e241dbb54e70476325ca49629f5335fdba9ce9 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654595116 +0200	commit: Minor adjustments on texts
+11e241dbb54e70476325ca49629f5335fdba9ce9 d80e87b38994a12cb595092692eb8d1b9077ae04 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654596665 +0200	commit: Adding postcss and prettier
+d80e87b38994a12cb595092692eb8d1b9077ae04 25874e4d15e88526fa4130fdb4ddddb1d97350d9 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654597043 +0200	commit: Cleaning pipeline
+25874e4d15e88526fa4130fdb4ddddb1d97350d9 0fd6990000638b89eade77765c82b384a47bfebb Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654597057 +0200	pull: Merge made by the 'recursive' strategy.
+0fd6990000638b89eade77765c82b384a47bfebb 4b3a20605ab2d8b7b7a227ec13a0dcb02f1f61be Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654597364 +0200	commit: Adding page test case
+4b3a20605ab2d8b7b7a227ec13a0dcb02f1f61be 5d155ffc25fc971e97bd19289d93619b214054c2 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654597550 +0200	commit: Adding page test case with preetier

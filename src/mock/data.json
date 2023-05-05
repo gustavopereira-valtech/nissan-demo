@@ -1,0 +1,95 @@
+{
+    "trainings":[
+        {
+            "id": 1,
+            "title": "WELCOMING",
+            "theme": "New Courses",
+            "icon": "ico-car.svg",
+            "progress": 67,
+            "topics": [
+                {
+                    "id": 1,
+                    "title": "Working Principles",
+                    "progress": 100,
+                    "duration": "5:00"
+                },
+                {
+                    "id": 2,
+                    "title": "Purpose",
+                    "progress": 100,
+                    "duration": "2:00"
+                },
+                {
+                    "id": 3,
+                    "title": "NSW Sales boundaries",
+                    "progress": 100,
+                    "duration": "3:20"
+                },
+                {
+                    "id": 4,
+                    "title": "Elements used to build Test Drive process​",
+                    "progress": 100,
+                    "duration": "4:00"
+                },
+                {
+                    "id": 5,
+                    "title": "Parts of Test Drive",
+                    "progress": 100,
+                    "duration": "5:00"
+                },
+                {
+                    "id": 6,
+                    "title": "Acknowledge your customer",
+                    "progress": 33,
+                    "duration": "3:00"
+                },
+                {
+                    "id": 7,
+                    "title": "Understanding your customer's needs",
+                    "progress": 0,
+                    "duration": "6:00"
+                },
+                {
+                    "id": 8,
+                    "title": "Recommend a Product",
+                    "progress": 0,
+                    "duration": "4:20"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "TEST DRIVE",
+            "theme": "New Courses",
+            "icon": "ico-charging.svg",
+            "progress": 0
+        },
+        {
+            "id": 3,
+            "title": "CAR NAVIGATION SYSTEM",
+            "theme": "New Courses",
+            "icon": "ico-navigation.svg",
+            "progress": 0
+        },
+        {
+            "id": 4,
+            "title": "NISSAN WARANTY",
+            "theme": "New Courses",
+            "icon": "ico-waranty.svg",
+            "progress": 0
+        },
+        {
+            "id": 5,
+            "title": "CONNECTIVITY",
+            "theme": "New Courses",
+            "icon": "ico-connectivity.svg",
+            "progress": 0
+        },
+        {
+            "id": 6,
+            "title": "MILD HYBRID POWER",
+            "theme": "New Courses",
+            "icon": "ico-hybrid.svg",
+            "progress": 0
+        }]
+}

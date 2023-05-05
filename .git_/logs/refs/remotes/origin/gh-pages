@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 2987cc8bfadc021b4bdeef7bf71b9883ca17ba30 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654599880 +0200	fetch --prune origin --verbose --progress: storing head
+2987cc8bfadc021b4bdeef7bf71b9883ca17ba30 41d700d89c364101d408144b8510a149af3771d6 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654600779 +0200	fetch --prune origin --verbose --progress: fast-forward
+41d700d89c364101d408144b8510a149af3771d6 962aabbc960f23f9430e6f010b3e834f32cf2e33 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654605429 +0200	fetch --prune origin --verbose --progress: fast-forward
+962aabbc960f23f9430e6f010b3e834f32cf2e33 b0ae3880f8fb5ce6a6f44533b0ae4cc15d60a0b4 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654606088 +0200	fetch --prune origin --verbose --progress: fast-forward
+b0ae3880f8fb5ce6a6f44533b0ae4cc15d60a0b4 e6895b350e1250487695f434120283d12e042eeb Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654622186 +0200	pull: fast-forward
+e6895b350e1250487695f434120283d12e042eeb 3b4df83dae5a391950f30271361664e312204fc1 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654635341 +0200	pull: fast-forward
+3b4df83dae5a391950f30271361664e312204fc1 8cfd7c075ad29aadd6ecdcbef661e4ee1e319302 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654636215 +0200	pull: fast-forward
+8cfd7c075ad29aadd6ecdcbef661e4ee1e319302 eab76a9441a5c03d90cc94d42e7131525464ddf5 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654765689 +0200	pull: fast-forward

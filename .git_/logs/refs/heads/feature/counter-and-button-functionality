@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 316fa35bfb09175ebe99a1a54c178d62e12162fc Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654608313 +0200	branch: Created from HEAD
+316fa35bfb09175ebe99a1a54c178d62e12162fc 3de281d966f2cd635974fa80336f2d556527ba5b Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654620460 +0200	commit: Adding new pages and gestures to controll the flow
+3de281d966f2cd635974fa80336f2d556527ba5b 77b140c16af9ee5c531bd83ad1476d77bdfd6dd6 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654621401 +0200	commit: Fixing lint and import for components

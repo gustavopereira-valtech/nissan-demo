@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 7732d4eb82da427c84dedcaad2f9938315149f1d Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654588036 +0200	commit (initial): CDV - Initial commit...
+7732d4eb82da427c84dedcaad2f9938315149f1d d94c736525dcba507a8ee1810cb373a09fff61c3 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654595158 +0200	pull: Fast-forward
+d94c736525dcba507a8ee1810cb373a09fff61c3 4b700b7768c10651a818f16d8ee35c789db559d4 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654598465 +0200	pull: Fast-forward
+4b700b7768c10651a818f16d8ee35c789db559d4 9bcfd615a3cb35e9e448e3135fabda50d6fd55a0 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654598508 +0200	commit: Fixing lint for actions
+9bcfd615a3cb35e9e448e3135fabda50d6fd55a0 b67ca220d2e5b9ab36e74868d404dea6f4e3e9d7 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654599183 +0200	commit: Delivering action to deploy dist
+b67ca220d2e5b9ab36e74868d404dea6f4e3e9d7 b60ebbb9f5f9dd9c213148bd435fbeb328eb4b48 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654599219 +0200	commit: Delivering action to deploy dist
+b60ebbb9f5f9dd9c213148bd435fbeb328eb4b48 249cef88fb70de097a8a850c0699123a652a8a90 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654599263 +0200	commit: Fixing lint and prettier
+249cef88fb70de097a8a850c0699123a652a8a90 2da126eec8651ab9046dd27f5b5a0bacc2fdd48b Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654600090 +0200	commit: Updating with new text
+2da126eec8651ab9046dd27f5b5a0bacc2fdd48b 5abe8c92b0916e2196bbe41610456e4367f2ea79 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654600336 +0200	commit: Returning route for nuxt
+5abe8c92b0916e2196bbe41610456e4367f2ea79 316fa35bfb09175ebe99a1a54c178d62e12162fc Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654605242 +0200	commit: Editing the short_name PWA
+316fa35bfb09175ebe99a1a54c178d62e12162fc 626c31a0cfcfc78021618e71ce8d3bca2ab0bbc7 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654622186 +0200	pull: Fast-forward
+626c31a0cfcfc78021618e71ce8d3bca2ab0bbc7 c6ce15e1c5f569c2ae7ff377a0ded3440c36234a Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654622398 +0200	commit: Adding layout padding and no-touch-events
+c6ce15e1c5f569c2ae7ff377a0ded3440c36234a 32253a776a96e391ef0da28a81bbd94e1142785c Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654622475 +0200	commit: Fixing lint
+32253a776a96e391ef0da28a81bbd94e1142785c 8a0ed7a0e52cee227f3ece7bbf99deed99ff8cbd Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654623174 +0200	commit: User select none
+8a0ed7a0e52cee227f3ece7bbf99deed99ff8cbd 883297797b3848f8e154f716c23624ae0b6d42a7 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654624175 +0200	commit: Ignoring events on images and padding on total
+883297797b3848f8e154f716c23624ae0b6d42a7 68ecf0c9e6613366d25d415fbce456316b8f221d Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654624562 +0200	commit: Preventing scroll
+68ecf0c9e6613366d25d415fbce456316b8f221d 5d816d8de44765a8a2e6115dd323ea829010aad6 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654625001 +0200	commit: Preventing scrolls
+5d816d8de44765a8a2e6115dd323ea829010aad6 6a907f98c16e078d3a868573bad35f461052e83f Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654625883 +0200	commit: Adjusting layouts
+6a907f98c16e078d3a868573bad35f461052e83f c70190c8a369ca5763ee795f4381006b1e02cfef Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654627166 +0200	commit: Best control of flux and session recovery
+c70190c8a369ca5763ee795f4381006b1e02cfef ccb4526dfcb8c957061f1ff1652208cd959dd0f6 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654627849 +0200	commit: Fixing test cases
+ccb4526dfcb8c957061f1ff1652208cd959dd0f6 b4583f5920c3bf7bd1bc3d145dec42dc8e487158 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654629417 +0200	commit: Adjusting mobile and desktop navigation
+b4583f5920c3bf7bd1bc3d145dec42dc8e487158 adea1b733e13ebfc88334afbfa7229f87a963382 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654629782 +0200	commit: Fixing layout mobile
+adea1b733e13ebfc88334afbfa7229f87a963382 4f1a502c8b1de86a4fe375bd19227fc1c85f4957 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654635341 +0200	pull: Fast-forward
+4f1a502c8b1de86a4fe375bd19227fc1c85f4957 d441bd12694b45a37d47492bbb87b1bcf813abc1 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654635357 +0200	commit: Adding final haptic event
+d441bd12694b45a37d47492bbb87b1bcf813abc1 dbde8520cf4e344a96c93d7bd48b45f2bfb72da1 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654635469 +0200	commit: Adding final haptic event
+dbde8520cf4e344a96c93d7bd48b45f2bfb72da1 043b7b73a37bd08351f763775a9b6be8030e3136 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654636216 +0200	pull: Fast-forward
+043b7b73a37bd08351f763775a9b6be8030e3136 245359ab5f22d46c05417468cd95902644cdd48c Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654671664 +0200	commit: Changing direction to add/remove pints
+245359ab5f22d46c05417468cd95902644cdd48c cd865d3a21f9471ca809a05145dc2e26847e6555 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654684864 +0200	commit: Changing main color background
+cd865d3a21f9471ca809a05145dc2e26847e6555 f0029ead193fa8f90b55299c82972e690d2550e3 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654685362 +0200	commit: Editing texts and reducing longpress time
+f0029ead193fa8f90b55299c82972e690d2550e3 0ae5a3499a1dc80ed32dd2fe735e7d21d3f65789 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654689210 +0200	commit: Adding notifications and page transitions with pulse
+0ae5a3499a1dc80ed32dd2fe735e7d21d3f65789 b20d22d25c1f099ff49bb5aa51d5d358f1b72e00 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654690230 +0200	commit: Adding new touch events vue plugin
+b20d22d25c1f099ff49bb5aa51d5d358f1b72e00 11e6fd3a0a9f7c645d37d11f2964fa30af677b27 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654690554 +0200	commit: Updating package lock
+11e6fd3a0a9f7c645d37d11f2964fa30af677b27 25a9c2532772dfd55f77b1517d0e05c3daad3e45 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654693583 +0200	commit: Easying the transition effect
+25a9c2532772dfd55f77b1517d0e05c3daad3e45 914eb8a5e632017647239ba3dca9315a7dc47957 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654693851 +0200	commit: Fastening the transition effect
+914eb8a5e632017647239ba3dca9315a7dc47957 7613f13e91451a62d1ab08b428fb9cb945e82c2b Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654694120 +0200	commit: Fixing wording on payment
+7613f13e91451a62d1ab08b428fb9cb945e82c2b bbbbb889a3e531af02ca77d61630c40053f2de6a Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654710572 +0200	commit: Adding extra padding area to touch
+bbbbb889a3e531af02ca77d61630c40053f2de6a 5ee8ba60dd8dc004a8fcc3c6b66152ce04ed981e Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654795371 +0200	commit: Adding fixed layout
+5ee8ba60dd8dc004a8fcc3c6b66152ce04ed981e 506b50ede77cf4b5a938d34948a3edb184d2a571 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654795758 +0200	commit: Avoiding bounce
+506b50ede77cf4b5a938d34948a3edb184d2a571 5235910eab48667b04c04ee540ec9e669c9e9419 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654848732 +0200	commit: Pushing usability
+5235910eab48667b04c04ee540ec9e669c9e9419 beb6cf6aa9804683ca479159ac1094daaf200547 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654850771 +0200	commit: Disabling zoom
+beb6cf6aa9804683ca479159ac1094daaf200547 f092623324304746c6c2a270a3a40647d0e356f7 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654851923 +0200	commit: Adding localstorage to persist sessions
+f092623324304746c6c2a270a3a40647d0e356f7 c312af9cc4db3f1c5010a0580b1598b65ee27ec6 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1654955840 +0200	pull --tags origin master: Fast-forward
+c312af9cc4db3f1c5010a0580b1598b65ee27ec6 897777db05f4c05ac42281e2d43a85ba481ffadd Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1655016277 +0200	commit: Number conversion for localStorage restore
+897777db05f4c05ac42281e2d43a85ba481ffadd 08f85b53848dcaa2cda21e80317c14574c89ac26 Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1655132679 +0200	commit: Fixing some lighthouse reports suggestions
+08f85b53848dcaa2cda21e80317c14574c89ac26 78c4f539dad1ef61064c100a28bc95167a9dc56b Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1655133169 +0200	commit: User scalable ally
+78c4f539dad1ef61064c100a28bc95167a9dc56b 78c4f539dad1ef61064c100a28bc95167a9dc56b Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1683281430 +0200	Branch: renamed refs/heads/master to refs/heads/main
+78c4f539dad1ef61064c100a28bc95167a9dc56b f0c7fe0bb94b6869eda4a32e4bf20e139bca196e Gustavo Pereira <gustavo.pereira.ext@valtech.com> 1683281540 +0200	commit: First commit
