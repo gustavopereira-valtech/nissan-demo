@@ -22,6 +22,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@pinia/nuxt": "^0.1.9",
     "core-js": "^3.19.3",
+    "jimp": "^0.22.7",
     "nuxt": "^2.15.8",
     "pinia": "^2.0.14",
     "postcss-html": "^1.4.1",
