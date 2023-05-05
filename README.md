@@ -2,7 +2,7 @@
 
 ## Pwa Setup
 
-[https://github.com/gustavopereira-valtech/nissan-demo](https://github.com/gustavopereira-valtech/nissan-demo)
+// vercel
 
 ## Build Setup
 
