@@ -1,8 +1,8 @@
-# combiendeverres
+# nissan-demo
 
 ## Pwa Setup
 
-[https://gustavosilent.github.io/combiendeverres](https://gustavosilent.github.io/combiendeverres)
+[https://github.com/gustavopereira-valtech/nissan-demo](https://github.com/gustavopereira-valtech/nissan-demo)
 
 ## Build Setup
 
